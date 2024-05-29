@@ -1,0 +1,21 @@
+Bankomat
+
+Części:
+logowanie
+-3 cyfrowy numer kontach
+-pin
+- jeżeli ok -> do bankomatu
+- jeżeli źle -> 3 próby -> blokada na koncie (zapisane w pliku)
+
+praca na kontach
+- losowa reklama pobierana z pliku reklama.txt
+
+- saldo
+- wypłata
+	- nie można przekroczyć salda
+- wpłata
+
+- informacje o koncie
+	- imie, nazwisko, saldo, historia
+
+- wyjście
